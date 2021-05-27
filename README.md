@@ -10,4 +10,6 @@ Basic Features of this app:
 
 ### Screenshots
 
-![Home Screenshot](./images/Home-Screen.png)
+![Home Screenshot](./images/Home-Screen.png "Main Screen")
+![Missions Screenshot](./images/Mission-Screen.png "Mission Detail Screen")
+![Astronaut Screenshot](./images/Astronaut-Screen.png "Astronaut Detail Screen")
