@@ -7,3 +7,7 @@ Basic Features of this app:
 * View basic information of the mission
 * View the crew members and their roles in their missions
 * View detailed information of each crew member and which missions they were apart of.
+
+### Screenshots
+
+![Home Screenshot](./images/Home-Screen.png)
